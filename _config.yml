@@ -1,0 +1,20 @@
+# Permalinks
+#
+permalink: /:categories/:year/:month/:day/:title/
+
+# Setup
+title: I ask you
+tagline: See the world through my eyes
+description: An intellectual debacle amongst people
+url: http://unknown.com
+baseurl: ""
+paginate: 5
+
+# Plugins, Tags, Categories and Analytics
+plugins: [jekyll-paginate]
+
+# About/contact
+author:
+  name: Dude
+  url: https://yoururl.com
+  email: s0bell@protonmail.com
